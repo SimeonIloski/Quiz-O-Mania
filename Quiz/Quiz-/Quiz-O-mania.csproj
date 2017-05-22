@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6D72148C-33EC-4D96-8CE9-379F23C6A031}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Quiz_</RootNamespace>
+    <AssemblyName>Quiz-</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game.cs" />
+    <Compile Include="GameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameForm.Designer.cs">
+      <DependentUpon>GameForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HighScores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HighScores.Designer.cs">
+      <DependentUpon>HighScores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Question.cs" />
+    <Compile Include="SingleFormOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SingleFormOptions.Designer.cs">
+      <DependentUpon>SingleFormOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SuddenDeath.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuddenDeath.Designer.cs">
+      <DependentUpon>SuddenDeath.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameForm.resx">
+      <DependentUpon>GameForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HighScores.resx">
+      <DependentUpon>HighScores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SingleFormOptions.resx">
+      <DependentUpon>SingleFormOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuddenDeath.resx">
+      <DependentUpon>SuddenDeath.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Pictures\Alien.jpg" />
+    <Content Include="Pictures\American Ultra.jpg" />
+    <Content Include="Pictures\Ant Man.jpg" />
+    <Content Include="Pictures\australiaflag.jpg" />
+    <Content Include="Pictures\austriaflag.jpg" />
+    <Content Include="Pictures\Avengers.jpg" />
+    <Content Include="Pictures\Bastille.jpg" />
+    <Content Include="Pictures\BG.png" />
+    <Content Include="Pictures\Birdy.png" />
+    <Content Include="Pictures\Boss Baby.jpg" />
+    <Content Include="Pictures\Britney Spears.jpg" />
+    <Content Include="Pictures\canadaflag.jpg" />
+    <Content Include="Pictures\Conjuring 2.jpg" />
+    <Content Include="Pictures\cristianoronaldo.jpg" />
+    <Content Include="Pictures\Deadpool.jpg" />
+    <Content Include="Pictures\edenhazard.jpg" />
+    <Content Include="Pictures\Florance + The Machine.jpg" />
+    <Content Include="Pictures\franceflag.jpg" />
+    <Content Include="Pictures\geretbale.jpg" />
+    <Content Include="Pictures\germanyflag.jpg" />
+    <Content Include="Pictures\GiTS.jpg" />
+    <Content Include="Pictures\goranpandev.jpg" />
+    <Content Include="Pictures\GoTG.jpg" />
+    <Content Include="Pictures\greeceflag.jpg" />
+    <Content Include="Pictures\hungaryflag.jpg" />
+    <Content Include="Pictures\Iggy Azalea.jpg" />
+    <Content Include="Pictures\italyflag.jpg" />
+    <Content Include="Pictures\japanflag.jpg" />
+    <Content Include="Pictures\Jess Glynne.jpg" />
+    <Content Include="Pictures\kevindurrant.jpg" />
+    <Content Include="Pictures\kobebryant.jpg" />
+    <Content Include="Pictures\kyrieirving.jpg" />
+    <Content Include="Pictures\Lana Del Rey.jpg" />
+    <Content Include="Pictures\LebronJamses.jpg" />
+    <Content Include="Pictures\lionelmessi.jpg" />
+    <Content Include="Pictures\macedoniaflag.jpg" />
+    <Content Include="Pictures\manuelnoer.jpg" />
+    <Content Include="Pictures\mexicoflag.jpg" />
+    <Content Include="Pictures\Miley Cyrus.jpg" />
+    <Content Include="Pictures\Personal Shopper.jpg" />
+    <Content Include="Pictures\Rachel Platten.jpg" />
+    <Content Include="Pictures\rafaelnadal.jpg" />
+    <Content Include="Pictures\Resident Evil.jpg" />
+    <Content Include="Pictures\rogerfederer.jpg" />
+    <Content Include="Pictures\RusselWestbrook.jpg" />
+    <Content Include="Pictures\russiaflag.jpg" />
+    <Content Include="Pictures\spainflag.jpg" />
+    <Content Include="Pictures\stevecurry.jpg" />
+    <Content Include="Pictures\Sucker Punch.jpg" />
+    <Content Include="Pictures\Suicide Squad.jpg" />
+    <Content Include="Pictures\T.A.T.U.jpg" />
+    <Content Include="Pictures\Taylor Swift.jpg" />
+    <Content Include="Pictures\The Others.jpg" />
+    <Content Include="Pictures\Tom Odell.jpg" />
+    <Content Include="Pictures\unitedkingdomflag.jpg" />
+    <Content Include="Pictures\usaflag.jpg" />
+    <Content Include="Pictures\Warcraft.jpg" />
+    <Content Include="Pictures\Weeknd.jpeg" />
+    <Content Include="Pictures\Will.i.am.jpg" />
+    <Content Include="Pictures\ZAYN.jpg" />
+    <Content Include="Pictures\zlatanibrahimovic.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
