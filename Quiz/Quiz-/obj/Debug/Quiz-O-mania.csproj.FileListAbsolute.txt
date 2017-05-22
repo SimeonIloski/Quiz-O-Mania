@@ -1,0 +1,75 @@
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\lab moi kododvi\proekt bilten\Quiz-\Quiz-\bin\Debug\Quiz-.exe.config
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\lab moi kododvi\proekt bilten\Quiz-\Quiz-\bin\Debug\Quiz-.exe
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\lab moi kododvi\proekt bilten\Quiz-\Quiz-\bin\Debug\Quiz-.pdb
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\lab moi kododvi\proekt bilten\Quiz-\Quiz-\obj\Debug\Quiz-O-mania.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\lab moi kododvi\proekt bilten\Quiz-\Quiz-\obj\Debug\Quiz_.MainForm.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\lab moi kododvi\proekt bilten\Quiz-\Quiz-\obj\Debug\Quiz_.Properties.Resources.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\lab moi kododvi\proekt bilten\Quiz-\Quiz-\obj\Debug\Quiz_.SingleFormOptions.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\lab moi kododvi\proekt bilten\Quiz-\Quiz-\obj\Debug\Quiz-O-mania.csproj.GenerateResource.Cache
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\lab moi kododvi\proekt bilten\Quiz-\Quiz-\obj\Debug\Quiz-.exe
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\lab moi kododvi\proekt bilten\Quiz-\Quiz-\obj\Debug\Quiz-.pdb
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\lab moi kododvi\proekt bilten\Quiz-\Quiz-\obj\Debug\Quiz_.GameForm.resources
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект\Quiz-\bin\Debug\Quiz-.exe.config
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект\Quiz-\obj\Debug\Quiz-.exe
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект\Quiz-\obj\Debug\Quiz-.pdb
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект\Quiz-\obj\Debug\Quiz-O-mania.csprojResolveAssemblyReference.cache
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект\Quiz-\obj\Debug\Quiz_.MainForm.resources
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект\Quiz-\obj\Debug\Quiz_.GameForm.resources
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект\Quiz-\obj\Debug\Quiz_.Properties.Resources.resources
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект\Quiz-\obj\Debug\Quiz_.SingleFormOptions.resources
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект\Quiz-\obj\Debug\Quiz-O-mania.csproj.GenerateResource.Cache
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект\Quiz-\bin\Debug\Quiz-.exe
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект\Quiz-\bin\Debug\Quiz-.pdb
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект\Quiz-\obj\Debug\Quiz_.HighScores.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\Проект\Quiz-\bin\Debug\Quiz-.exe.config
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\Проект\Quiz-\obj\Debug\Quiz-.exe
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\Проект\Quiz-\obj\Debug\Quiz-.pdb
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\Проект\Quiz-\bin\Debug\Quiz-.exe
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\Проект\Quiz-\bin\Debug\Quiz-.pdb
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\Проект\Quiz-\obj\Debug\Quiz-O-mania.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\Проект\Quiz-\obj\Debug\Quiz_.MainForm.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\Проект\Quiz-\obj\Debug\Quiz_.GameForm.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\Проект\Quiz-\obj\Debug\Quiz_.HighScores.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\Проект\Quiz-\obj\Debug\Quiz_.Properties.Resources.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\Проект\Quiz-\obj\Debug\Quiz_.SingleFormOptions.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\Проект\Quiz-\obj\Debug\Quiz-O-mania.csproj.GenerateResource.Cache
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\Проект\Quiz-\obj\Debug\Quiz_.SuddenDeath.resources
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект V2\Quiz-\bin\Debug\Quiz-.exe.config
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект V2\Quiz-\obj\Debug\Quiz-.exe
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект V2\Quiz-\obj\Debug\Quiz-.pdb
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект V2\Quiz-\bin\Debug\Quiz-.exe
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект V2\Quiz-\bin\Debug\Quiz-.pdb
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект V2\Quiz-\obj\Debug\Quiz-O-mania.csprojResolveAssemblyReference.cache
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект V2\Quiz-\obj\Debug\Quiz_.MainForm.resources
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект V2\Quiz-\obj\Debug\Quiz_.GameForm.resources
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект V2\Quiz-\obj\Debug\Quiz_.HighScores.resources
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект V2\Quiz-\obj\Debug\Quiz_.Properties.Resources.resources
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект V2\Quiz-\obj\Debug\Quiz_.SingleFormOptions.resources
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект V2\Quiz-\obj\Debug\Quiz_.SuddenDeath.resources
+C:\Users\Iliev\Desktop\FINKI\3 GODINA\6 SEMESTAR\Визуелно Програмирање\Проект V2\Quiz-\obj\Debug\Quiz-O-mania.csproj.GenerateResource.Cache
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\PROEKT_V2\Проект V2\Quiz-\bin\Debug\Quiz-.exe.config
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\PROEKT_V2\Проект V2\Quiz-\obj\Debug\Quiz-.exe
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\PROEKT_V2\Проект V2\Quiz-\obj\Debug\Quiz-.pdb
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\PROEKT_V2\Проект V2\Quiz-\bin\Debug\Quiz-.exe
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\PROEKT_V2\Проект V2\Quiz-\bin\Debug\Quiz-.pdb
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\PROEKT_V2\Проект V2\Quiz-\obj\Debug\Quiz-O-mania.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\PROEKT_V2\Проект V2\Quiz-\obj\Debug\Quiz_.MainForm.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\PROEKT_V2\Проект V2\Quiz-\obj\Debug\Quiz_.GameForm.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\PROEKT_V2\Проект V2\Quiz-\obj\Debug\Quiz_.HighScores.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\PROEKT_V2\Проект V2\Quiz-\obj\Debug\Quiz_.Properties.Resources.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\PROEKT_V2\Проект V2\Quiz-\obj\Debug\Quiz_.SingleFormOptions.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\PROEKT_V2\Проект V2\Quiz-\obj\Debug\Quiz_.SuddenDeath.resources
+C:\Users\Simeon\Documents\fakultet\Treta Godina\Shest Semestar\vizuelno programiranje\Proekt Quiz\PROEKT_V2\Проект V2\Quiz-\obj\Debug\Quiz-O-mania.csproj.GenerateResource.Cache
+C:\Users\Iliev\Desktop\Materijali\FINKI\3 GODINA\Визуелно програмирање\Project Final\Quiz-O-Mania\Quiz-\bin\Debug\Quiz-.exe.config
+C:\Users\Iliev\Desktop\Materijali\FINKI\3 GODINA\Визуелно програмирање\Project Final\Quiz-O-Mania\Quiz-\obj\Debug\Quiz-.exe
+C:\Users\Iliev\Desktop\Materijali\FINKI\3 GODINA\Визуелно програмирање\Project Final\Quiz-O-Mania\Quiz-\obj\Debug\Quiz-.pdb
+C:\Users\Iliev\Desktop\Materijali\FINKI\3 GODINA\Визуелно програмирање\Project Final\Quiz-O-Mania\Quiz-\bin\Debug\Quiz-.exe
+C:\Users\Iliev\Desktop\Materijali\FINKI\3 GODINA\Визуелно програмирање\Project Final\Quiz-O-Mania\Quiz-\bin\Debug\Quiz-.pdb
+C:\Users\Iliev\Desktop\Materijali\FINKI\3 GODINA\Визуелно програмирање\Project Final\Quiz-O-Mania\Quiz-\obj\Debug\Quiz-O-mania.csprojResolveAssemblyReference.cache
+C:\Users\Iliev\Desktop\Materijali\FINKI\3 GODINA\Визуелно програмирање\Project Final\Quiz-O-Mania\Quiz-\obj\Debug\Quiz_.MainForm.resources
+C:\Users\Iliev\Desktop\Materijali\FINKI\3 GODINA\Визуелно програмирање\Project Final\Quiz-O-Mania\Quiz-\obj\Debug\Quiz_.GameForm.resources
+C:\Users\Iliev\Desktop\Materijali\FINKI\3 GODINA\Визуелно програмирање\Project Final\Quiz-O-Mania\Quiz-\obj\Debug\Quiz_.HighScores.resources
+C:\Users\Iliev\Desktop\Materijali\FINKI\3 GODINA\Визуелно програмирање\Project Final\Quiz-O-Mania\Quiz-\obj\Debug\Quiz_.Properties.Resources.resources
+C:\Users\Iliev\Desktop\Materijali\FINKI\3 GODINA\Визуелно програмирање\Project Final\Quiz-O-Mania\Quiz-\obj\Debug\Quiz_.SingleFormOptions.resources
+C:\Users\Iliev\Desktop\Materijali\FINKI\3 GODINA\Визуелно програмирање\Project Final\Quiz-O-Mania\Quiz-\obj\Debug\Quiz_.SuddenDeath.resources
+C:\Users\Iliev\Desktop\Materijali\FINKI\3 GODINA\Визуелно програмирање\Project Final\Quiz-O-Mania\Quiz-\obj\Debug\Quiz-O-mania.csproj.GenerateResource.Cache
