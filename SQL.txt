@@ -1,0 +1,93 @@
+﻿--Tabela za prasanjata
+create table Questions(
+	QuestionID int primary key,
+	Question varchar(60),
+	Picture varchar(60),
+	Answer varchar(60),
+	Hint varchar(60),
+	Category varchar(60)
+);
+
+--Tabela za Users
+create table Users(
+	UserName varchar(60),
+	Score int,
+	Mode varchar(20)
+);
+
+--Tabela za Active User
+create table ActiveUser(
+	UserName varchar(60),
+	GameMode varchar(20),
+	Category varchar(60)
+);
+
+Music Insert:
+
+insert into Questions values(1,'What is the name of the singer on the photo?','Weeknd.jpeg','The Weeknd','Some of his songs: Starboy, The Hills, Reminder.','Music');
+insert into Questions values(2,'What is the name of the singer on the photo?','Tom Odell.jpg','Tom Odell','Some of his songs: Another Love, Magnetised, Wrong Crowd.','Music');
+insert into Questions values(3,'What is the name of the singer on the photo?','Britney Spears.jpg','Britney Spears','Some of her songs: Everytime, Make Me..., Toxic.','Music');
+insert into Questions values(4,'What is the name of the singer on the photo?','Taylor Swift.jpg','Taylor Swift','Some of her songs: 22, Shake it off, Blank Space.','Music');
+insert into Questions values(5,'What is the name of the singer on the photo?','Miley Cyrus.jpg','Miley Cyrus','Some of her songs: Wrecking Ball, SMS(Bangerz).','Music');
+insert into Questions values(6,'What is the name of the singer on the photo?','Will.i.am.jpg','Will.i.am','Some of his songs: Scream and Shout, Feelin Myself.','Music');
+insert into Questions values(7,'What is the name of the singer on the photo?','Iggy Azalea.jpg','Iggy Azalea','Some of her songs: Black Widow, Fancy, Pretty Girls.','Music');
+insert into Questions values(8,'What is the name of the singer on the photo?','Jess Glynne.jpg','Jess Glynne','Some of her songs: Hold my Hand, Take me home.','Music');
+insert into Questions values(9,'What is the name of the singer on the photo?','ZAYN.jpg','ZAYN','Some of his songs: I dont wanna live forever,  Pillowtalk.','Music');
+insert into Questions values(10,'What is the name of the singer on the photo?','Florance + The Machine.jpg','Florance + The Machine','Some of her songs: Ship to Wreck, Spectrum.','Music');
+insert into Questions values(11,'What is the name of the singer on the photo?','Lana Del Rey.jpg','Lana Del Rey','Some of her songs: Lust for Life, Born to die.','Music');
+insert into Questions values(12,'What is the name of the singer on the photo?','Rachel Platten.jpg','Rachel Platten','Some of her songs: Stand by you, Fight Song.','Music');
+insert into Questions values(13,'What is the name of the group on the photo?','Bastille.jpg','Bastille','Some of her songs: Of the night, Pompeii.','Music');
+insert into Questions values(14,'What is the name of the singer on the photo?','Birdy.png','Birdy','Some of her songs: Skinny Love, Find Me.','Music');
+insert into Questions values(15,'What is the name of the singer on the photo?','T.A.T.U.jpg','T.A.T.U','Some of her songs: All about us, All the things she said.','Music');
+
+Movies Insert:
+
+insert into Questions values(16,'What is the name of the movie on the photo?','Sucker Punch.jpg','Sucker Punch','Some of the character names: Baby Doll, Rocket.','Movies');
+insert into Questions values(17,'What is the name of the movie on the photo?','GoTG.jpg','Guardians of the Galaxy','Some of the character names: Rocket, Groot.','Movies');
+insert into Questions values(18,'What is the name of the movie on the photo?','Resident Evil.jpg','Resident Evil','Some of the character names: Alice, Albert Wesker, LEON.','Movies');
+insert into Questions values(19,'What is the name of the movie on the photo?','Alien.jpg','Alien: Covenant','Some of the character names: David, Daniels.','Movies');
+insert into Questions values(20,'What is the name of the movie on the photo?','GiTS.jpg','Ghost in the Shell','Some of the character names: Major, Batou.','Movies');
+insert into Questions values(21,'What is the name of the movie on the photo?','Conjuring 2.jpg','The Conjuring 2','Some of the character names: Ed,Lorraine.','Movies');
+insert into Questions values(22,'What is the name of the movie on the photo?','Suicide Squad.jpg','Suicide Squad','Some of the character names: Harley Quinn, Batman.','Movies');
+insert into Questions values(23,'What is the name of the movie on the photo?','Ant Man.jpg','Ant Man','Some of the character names: Scott, Hank.','Movies');
+insert into Questions values(24,'What is the name of the movie on the photo?','Boss Baby.jpg','The Boss Baby','Some of the character names: The Boss Baby,  Francis.','Movies');
+insert into Questions values(25,'What is the name of the movie on the photo?','American Ultra.jpg','American Ultra','Some of the character names: Mike, Phoebe.','Movies');
+insert into Questions values(26,'What is the name of the movie on the photo?','Warcraft.jpg','Warcraft','Some of the character names: GulDan, Medivh.','Movies');
+insert into Questions values(27,'What is the name of the movie on the photo?','Avengers.jpg','Avengers','Some of the character names: Tony Stark, Bruce Banner.','Movies');
+insert into Questions values(28,'What is the name of the movie on the photo?','The Others.jpg','The Others','Some of the character names: Grace, Anne.','Movies');
+insert into Questions values(29,'What is the name of the movie on the photo?','Personal Shopper.jpg','Personal Shopper','Some of the character names: Maureen, Ingo.','Movies');
+insert into Questions values(30,'What is the name of the movie on the photo?','Deadpool.jpg','Deadpool','Some of the character names: Wade Wilson, Vanessa.','Movies');
+
+Sport Insert:
+insert into Questions values(31,'What is the name of NBA player on the photo?','LebronJamses.jpg','Lebron James','King James','Sport');
+insert into Questions values(32,'What is the name of NBA player on the photo?','stevecurry.jpg','Steve Curry','Baby-Faced Assasin','Sport');
+insert into Questions values(33,'What is the name of NBA player on the photo?','RusselWestbrook.jpg','Russel Westbrook','Oklahoma guard','Sport');
+insert into Questions values(34,'What is the name of NBA player on the photo?','kyrieirving.jpg','Kyrie Irving','Uncle Drew','Sport');
+insert into Questions values(35,'What is the name of NBA player on the photo?','kobebryant.jpg','Kobe Bryant','KB8,Three Rings','Sport');
+insert into Questions values(36,'What is the name of NBA player on the photo?','kevindurrant.jpg','Kevin Durrant','The Durrantulla','Sport');
+insert into Questions values(37,'What is the name of the Football player on the photo?','cristianoronaldo.jpg','Cristiano Ronaldo','CR7','Sport');
+insert into Questions values(38,'What is the name of the Football player on the photo?','lionelmessi.jpg','Lionel Messi','Leo','Sport');
+insert into Questions values(39,'What is the name of the Football player on the photo?','manuelnoer.jpg','Manuel Neuer','Manu','Sport');
+insert into Questions values(40,'What is the name of the Football player on the photo?','geretbale.jpg','Gareth Bale','Plays for RM','Sport');
+insert into Questions values(41,'What is the name of the Football player on the photo?','edenhazard.jpg','Eden Hazard','Plays for Chelsea','Sport');
+insert into Questions values(42,'What is the name of the Football player on the photo?','zlatanibrahimovic.jpg','Zlatan Ibrahimovic','Ibraakadabra','Sport');
+insert into Questions values(43,'What is the name of the Football player on the photo?','goranpandev.jpg','Goran Pandev','Plays for Macedonia','Sport');
+insert into Questions values(44,'What is the name of the Tennis player on the photo?','rafaelnadal.jpg','Rafael Nadal','El Nino','Sport');
+insert into Questions values(45,'What is the name of the Tennis player on the photo?','rogerfederer.jpg','Roger Federer','King Roger','Sport');
+
+CountryFlag Insert:
+insert into Questions values (46,'Which country does this flag belong to?','macedoniaflag.jpg','Macedonia','Capital is Skopje','CountryFlags');
+insert into Questions values (47,'Which country does this flag belong to?','greeceflag.jpg','Greece','Capital is Athens','CountryFlags');
+insert into Questions values (48,'Which country does this flag belong to?','usaflag.jpg','USA','Capital is Washington','CountryFlags');
+insert into Questions values (49,'Which country does this flag belong to?','unitedkingdomflag.jpg','United Kingdom','Capital is London','CountryFlags');
+insert into Questions values (50,'Which country does this flag belong to?','spainflag.jpg','Spain','Capital is Madrid','CountryFlags');
+insert into Questions values (51,'Which country does this flag belong to?','franceflag.jpg','France','Capital is Paris','CountryFlags');
+insert into Questions values (52,'Which country does this flag belong to?','canadaflag.jpg','Canada','Capital is Otawa','CountryFlags');
+insert into Questions values (53,'Which country does this flag belong to?','russiaflag.jpg','Russia','Capital is Moscow','CountryFlags');
+insert into Questions values (54,'Which country does this flag belong to?','japanflag.jpg','Japan','Capital is Tokyo','CountryFlags');
+insert into Questions values (55,'Which country does this flag belong to?','italyflag.jpg','Italy','Capital is Rome','CountryFlags');
+insert into Questions values (56,'Which country does this flag belong to?','australiaflag.jpg','Australia','Capital is Kambera','CountryFlags');
+insert into Questions values (57,'Which country does this flag belong to?','germanyflag.jpg','Germany','Capital is Berlin','CountryFlags');
+insert into Questions values (58,'Which country does this flag belong to?','austriaflag.jpg','Austria','Capital is Wien','CountryFlags');
+insert into Questions values (59,'Which country does this flag belong to?','hungaryflag.jpg','Hungary','Capital is Budapest','CountryFlags');
+insert into Questions values (60,'Which country does this flag belong to?','mexicoflag.jpg','Mexico','Capital is Mexico City','CountryFlags');
