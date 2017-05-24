@@ -130,15 +130,18 @@ namespace Quiz_
 
         private void cbCategory_Validating(object sender, CancelEventArgs e)
         {
-            if (cbCategory.SelectedIndex == -1)
+            if (cbGameMode.Text == "Normal")
             {
-                e.Cancel = true;
-                errorProvider1.SetError(cbCategory, "Select Category");
-            }
-            else
-            {
-                e.Cancel = false;
-                errorProvider1.SetError(cbCategory, "");
+                if (cbCategory.SelectedIndex == -1)
+                {
+                    e.Cancel = true;
+                    errorProvider1.SetError(cbCategory, "Select Category");
+                }
+                else
+                {
+                    e.Cancel = false;
+                    errorProvider1.SetError(cbCategory, "");
+                }
             }
         }
 
